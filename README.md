@@ -7,8 +7,8 @@
 **Primitive Data Types of Java**
 
 The primitive data types built into Java are: `byte`, `short`, `int`, `long`,
-`float`, `double`, `boolean` and `char`. Note that the `String` type is NOT
-a primitive data type. It is provided by the predefined String class.<br>
+`float`, `double`, `boolean` and `char`. (Note that the `String` type is NOT
+a primitive data type. It is provided by the predefined String class.)<br>
 
 Primitive types byte, short, int and long each hold integer values. The `byte`
 type uses one byte of storage (thus storing values -128 to 127). The `short`
